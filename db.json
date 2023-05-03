@@ -1,0 +1,44 @@
+{
+	"process": [
+		{
+			"title": "Sistema de Licor Preto para Queima",
+			"intervention": "Manutenção",
+			"validation": "",
+			"observation": "",
+			"items": [
+				{
+					"sequence": 1,
+					"equipment": "Válvula manual de vapor para os aquecedores",
+					"tag": "3321-009-6-1778",
+					"action": "Fechar/Bloquear",
+					"energyInvolved": "Vapor de media pressão",
+					"checked": false
+				},
+				{
+					"sequence": 2,
+					"equipment": "Válvula manual de licor queima para o Mix Tanque 1 ",
+					"tag": "3321-155-6-4080",
+					"action": "Fechar/Bloquear",
+					"energyInvolved": "Licor Preto Concentrado",
+					"checked": true
+				},
+				{
+					"sequence": 3,
+					"equipment": "Válvula manual de vapor de limpeza",
+					"tag": "3321-120-2-1776",
+					"action": "Fechar/Bloquear",
+					"energyInvolved": "Vapor de media pressão",
+					"checked": true
+				},
+				{
+					"sequence": 4,
+					"equipment": "Bloqueio da fornalha ",
+					"tag": "Caixa de bloqueio",
+					"action": "bloqueio",
+					"energyInvolved": "Caixa de bloqueio",
+					"checked": true
+				}
+			]
+		}
+	]
+}
