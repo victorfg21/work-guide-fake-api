@@ -39,6 +39,30 @@
 					"checked": true
 				}
 			]
+		},
+		{
+			"title": "Sistema de Água das Bicas",
+			"intervention": "Manutenção",
+			"validation": "",
+			"observation": "",
+			"items": [
+				{
+					"sequence": 1,
+					"equipment": "Válvula manual de Água Desmi para o Tanque 1 de Água das Bicas",
+					"tag": "3321-211-6561-1",
+					"action": "Fechar/Bloquear",
+					"energyInvolved": "Água Desmi",
+					"checked": false
+				},
+				{
+					"sequence": 2,
+					"equipment": "Bomba 1 do tanque de Água das Bicas 1",
+					"tag": "3321-BBA-0024",
+					"action": "Bloquear",
+					"energyInvolved": "Eletricidade",
+					"checked": true
+				}
+			]
 		}
 	]
 }
